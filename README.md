@@ -1,5 +1,5 @@
 # README
-# Hi there! 👋 I'm Afonso Carvalho Sousa Passos
+# Hi there! 👋 I'm Afonso José Lopes Carvalho
 
 Welcome to my GitHub profile! I'm passionate about coding and learning. Here's a bit about me and my work:
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding and learning. Here's a
 ## 🚀 About Me
 
 * 🎓 I'm currently attending a Higher Professional Technical Course in Information Systems Technologies and Programming at **IPMAIA**.
-* 🌱 I’m currently learning **JAVA Spring-Boot** and **C# .NET**.
+* 🌱 I’m currently learning **Computer Science**.
 * 🔭 I’m working on **developing my portfolio**.
 * 🤝 I’m open to collaborate on interesting projects, especially in **web sites, apps and tech projects**.
 * ⚡ Fun fact: **My discipline and focus stem from the sports I practice and my military background.**
@@ -54,8 +54,8 @@ These are the languages and frameworks I am currently using and learning:
 
 ## 🌐 Contact
 
-* **LinkedIn:** [rui-passos-423691354](https://www.linkedin.com/in/rui-passos-423691354/)
-* **Email:** passosrp2@gmail.com
+* **LinkedIn:** 
+* **Email:** afonsocarvalho.main007@gmail.com
 
 ---
 
